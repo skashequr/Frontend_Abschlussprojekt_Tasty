@@ -16,7 +16,7 @@
 
 ## Demo
 
-A live demo of the Tasty App is available at: [.... ](https://delightful-cheesecake-9b19f0.netlify.app/) (hosted on Netlify)
+A live demo of the Tasty App is available at: [Click Heare ](https://delightful-cheesecake-9b19f0.netlify.app/) (hosted on Netlify)
 
 ## About the Tasty App
 
@@ -84,8 +84,7 @@ We welcome contributions to the Tasty App project! If you'd like to contribute, 
 
 Special thanks to the following contributors for their hard work on this project:
 
-- [jenny-dreamatrix](https://github.com/skashequr) - Frontend Developer
+- [Sheikh Ashequr Rahman](https://github.com/skashequr) - Frontend Developer
 
-## License
 
 
